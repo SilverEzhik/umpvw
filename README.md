@@ -10,7 +10,7 @@ It also handles selecting multiple items in File Explorer and trying to play the
 
 .NET Framework, whatever the latest one is ¯\\\_(ツ)_/¯
 
-## File associations
+## File associations and the compiled executable
 
 Use my fork of the mpv-install script: https://github.com/SilverEzhik/mpv-install
 
