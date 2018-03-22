@@ -2,7 +2,7 @@
 
 umpvw replicates mpv's macOS single-instance behavior on Windows.
 
-It is a wrapped for mpv that uses the player's JSON IPC capabilities, that are used to replace the currently playing file. 
+It is a wrapper for mpv that uses the player's JSON IPC capabilities, that are used to replace the currently playing file. 
 
 It also handles selecting multiple items in File Explorer and trying to play them - to handle this, it does IPC with itself. Files are launched in alphabetical order, as there isn't really a way to predict what order things will land in. 
 
