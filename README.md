@@ -6,6 +6,10 @@ It is a wrapped for mpv that uses the player's JSON IPC capabilities, that are u
 
 It also handles selecting multiple items in File Explorer and trying to play them - to handle this, it does IPC with itself. Files are launched in alphabetical order, as there isn't really a way to predict what order things will land in. 
 
+## Requirements
+
+.NET Framework, whatever the latest one is ¯\\\_(ツ)_/¯
+
 ## File associations
 
 Use my fork of the mpv-install script: https://github.com/SilverEzhik/mpv-install
