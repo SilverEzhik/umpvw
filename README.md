@@ -1,3 +1,5 @@
+Retired in favor of [mpv-msix](https://github.com/SilverEzhik/mpv-msix).
+
 # umpvw
 
 umpvw replicates mpv's macOS single-instance behavior on Windows.
